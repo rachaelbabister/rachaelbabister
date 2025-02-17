@@ -51,7 +51,7 @@ A Django-powered recipe blog where users can browse and save their favourite bak
 **Technologies Used:** HTML, CSS, JavaScript, Python (Django)  
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-5a6967?style=for-the-badge&logoColor=white&color=5a6967&labelColor=dce5dc)](https://blush-bakes-blog-2f3197aab1bc.herokuapp.com/)
-[![Repo](https://img.shields.io/badge/GitHub%20Repo-dce5dc?style=for-the-badge&logoColor=white&color=dce5dc&labelColor=5a6967)](https://github.com/rachaelbabister/from-house-to-home)
+[![Repo](https://img.shields.io/badge/GitHub%20Repo-dce5dc?style=for-the-badge&logoColor=white&color=dce5dc&labelColor=5a6967)](https://github.com/rachaelbabister/blush-bakes-blog)
 
 ---  
 
