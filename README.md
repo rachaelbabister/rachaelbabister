@@ -15,6 +15,10 @@ I'm a creative Web Developer with a background in front-end development, WordPre
 
 ## **Featured Projects**  
 
+These projects were created as part of my Full Stack Software Developer Diploma with Code Institute, completed between July 2023 and August 2024. Throughout the course, I achieved multiple distinctions in front-end and back-end projects, strengthening my understanding of web development.
+
+---
+
 ### **Blush Bakes By Rach Website**  
 A website created for my real business, Blush Bakes by Rach. I hadn’t built an official site before, so I used this as an opportunity for my first project.  
 
@@ -44,6 +48,17 @@ An interactive command-line game inspired by the classic game Battleships. Playe
 [![Repo](https://img.shields.io/badge/GitHub%20Repo-dce5dc?style=for-the-badge&logoColor=white&color=dce5dc&labelColor=5a6967)](https://github.com/rachaelbabister/tomahawk-tactics)
 
 ---  
+
+### **Blush Bakes by Rach Blog**  
+A Django-powered recipe blog where users can browse and save their favourite baking recipes. Features include user authentication, comments, and a personalised favourites list. 
+
+**Technologies Used:** HTML, CSS, JavaScript, Python (Django)  
+
+[![Repo](https://img.shields.io/badge/GitHub%20Repo-dce5dc?style=for-the-badge&logoColor=white&color=dce5dc&labelColor=5a6967)](https://github.com/rachaelbabister/blush-bakes-blog)
+
+_(The live site is temporarily unavailable due to a database issue caused by ElephantSQL’s End of Life. A migration is in progress, and the site will be back online soon.)_
+
+---
 
 ### **From House to Home (Front-End & API)**  
 A social platform where users can share their home improvement photos for inspiration.  
