@@ -45,16 +45,6 @@ An interactive command-line game inspired by the classic game Battleships. Playe
 
 ---  
 
-### **Blush Bakes by Rach Blog**  
-A Django-powered recipe blog where users can browse and save their favourite baking recipes. Features include user authentication, comments, and a personalised favourites list.  
-
-**Technologies Used:** HTML, CSS, JavaScript, Python (Django)  
-
-[![Live Site](https://img.shields.io/badge/Live%20Site-5a6967?style=for-the-badge&logoColor=white&color=5a6967&labelColor=dce5dc)](https://blush-bakes-blog-2f3197aab1bc.herokuapp.com/)
-[![Repo](https://img.shields.io/badge/GitHub%20Repo-dce5dc?style=for-the-badge&logoColor=white&color=dce5dc&labelColor=5a6967)](https://github.com/rachaelbabister/blush-bakes-blog)
-
----  
-
 ### **From House to Home (Front-End & API)**  
 A social platform where users can share their home improvement photos for inspiration.  
 
